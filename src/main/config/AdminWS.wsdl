@@ -2193,7 +2193,7 @@
   </wsdl:binding>
   <wsdl:service name="AdminWSService">
     <wsdl:port binding="tns:AdminWSServiceSoapBinding" name="AdminWSPort">
-      <soap:address location="https://ss.kemenlu_demo.id:8443/signserver/AdminWSService/AdminWS"/>
+      <soap:address location="https://ss.ghrn_demo.id:8443/signserver/AdminWSService/AdminWS"/>
     </wsdl:port>
   </wsdl:service>
 </wsdl:definitions>
